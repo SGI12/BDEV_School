@@ -1,3 +1,1 @@
-# vladdlab.github.io
-Spin IT Breaking News
-PeopleLoveCats DEMO
+# Дз со второй лекции
